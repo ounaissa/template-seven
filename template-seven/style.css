@@ -612,6 +612,7 @@ body {
 .help .box p {
   line-height: 1.3;
   width: 400px;
+  max-width: 100%;
   font-size: 20px;
 }
 .help .box::before {
